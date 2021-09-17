@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "BlinkingLabel.h"
 
 FOUNDATION_EXPORT double PodlibTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char PodlibTestVersionString[];

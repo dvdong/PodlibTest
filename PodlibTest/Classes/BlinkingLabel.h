@@ -1,5 +1,5 @@
 //
-//  LUViewController.h
+//  BlinkingLabel.h
 //  PodlibTest
 //
 //  Created by dengweidong on 2021/9/17.
@@ -9,7 +9,11 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface LUViewController : UIViewController
+@interface BlinkingLabel : UILabel
+
+- (void)startBlinking;
+
+- (void)stopBlinking;
 
 @end
 

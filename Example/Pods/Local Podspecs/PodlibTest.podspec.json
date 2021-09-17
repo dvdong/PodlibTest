@@ -1,9 +1,9 @@
 {
   "name": "PodlibTest",
   "version": "0.1.0",
-  "summary": "A short description of PodlibTest.",
+  "summary": "A test for creating a pod",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/dengweidong002/PodlibTest",
+  "homepage": "https://github.com/dvdong/PodlibTest.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "dengweidong002": "dengweidong002@ke.com"
   },
   "source": {
-    "git": "https://github.com/dengweidong002/PodlibTest.git",
+    "git": "https://github.com/dvdong/PodlibTest.git",
     "tag": "0.1.0"
   },
   "platforms": {
