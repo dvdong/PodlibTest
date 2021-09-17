@@ -1,0 +1,16 @@
+PODS:
+  - PodlibTest (0.1.0)
+
+DEPENDENCIES:
+  - PodlibTest (from `../`)
+
+EXTERNAL SOURCES:
+  PodlibTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodlibTest: a584e2b2baefb73f4011f7bbd8d0f6933868667b
+
+PODFILE CHECKSUM: 89092a56df787079147424afed8ad284a04a87ea
+
+COCOAPODS: 1.10.1
